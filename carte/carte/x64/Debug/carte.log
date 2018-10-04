@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\in4a13\downloads\cartecodaquellochefunziona-master\cartecodaquellochefunziona-master\cartecoda-ok\cartecoda-master\codacarte\carte\carte\main.cpp(88): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  carte.vcxproj -> C:\Users\in4a13\Downloads\carteCodaQUELLOCHEFUNZIONA-master\carteCodaQUELLOCHEFUNZIONA-master\carteCoda-OK\carteCoda-master\codaCarte\carte\x64\Debug\carte.exe
+  carte.vcxproj -> C:\Users\in4a13\Downloads\carteCodaQUELLOCHEFUNZIONA-master\carteCodaQUELLOCHEFUNZIONA-master\carteCoda-OK\carteCoda-master\codaCarte\carte\x64\Debug\carte.pdb (Partial PDB)

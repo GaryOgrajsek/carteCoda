@@ -1,0 +1,5 @@
+palla,ball
+tastiera,keyboard
+penna,pen
+matita,pencil
+acqua,water

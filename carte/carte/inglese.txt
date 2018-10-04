@@ -1,0 +1,5 @@
+acqua,water
+telefono,phone
+fermata,stop
+penna,pen
+luche,light
